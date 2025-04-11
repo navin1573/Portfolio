@@ -15,27 +15,27 @@ export default function Photos() {
         columns={3}
         images={[
           {
-            src: "/photos/photo1.jpg",
+            src: "/photos/photo7.jpg",
             alt: "Roman columns",
           },
           {
-            src: "/photos/photo2.jpg",
+            src: "/photos/photo11.jpg",
             alt: "Big Ben",
           },
           {
-            src: "/photos/photo3.jepg",
+            src: "/photos/photo14.jpg",
             alt: "Sacré-Cœur Basilica",
           },
           {
-            src: "/photos/photo4.jpg",
+            src: "/photos/photo12.jpg",
             alt: "Eiffel Tower",
           },
           {
-            src: "/photos/photo5.jpg",
+            src: "/photos/photo8.jpg",
             alt: "Taj Mahal",
           },
           {
-            src: "/photos/photo6.jpeg",
+            src: "/photos/photo3.jpeg",
             alt: "Colosseum",
           },
         ]}
@@ -46,20 +46,20 @@ export default function Photos() {
         images={[
           { src: "/photos/photo1.jpg", alt: "Roman columns" },
           { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
+          { src: "/photos/photo6.jpg", alt: "Sacré-Cœur Basilica" },
+          { src: "/photos/photo5.jpg", alt: "Eiffel Tower" },
         ]}
       />
 
       <ImageGrid
         columns={4}
         images={[
-          { src: "/photos/photo1.jpg", alt: "Roman columns" },
-          { src: "/photos/photo2.jpg", alt: "Big Ben" },
-          { src: "/photos/photo3.jpg", alt: "Sacré-Cœur Basilica" },
-          { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
-          { src: "/photos/photo5.jpg", alt: "Taj Mahal" },
-          { src: "/photos/photo6.jpg", alt: "Colosseum" },
+          { src: "/photos/photo4.jpg", alt: "Roman columns" },
+          { src: "/photos/photo10.jpg", alt: "Big Ben" },
+          { src: "/photos/photo15.jpg", alt: "Sacré-Cœur Basilica" },
+          { src: "/photos/photo16.jpg", alt: "Eiffel Tower" },
+          { src: "/photos/photo9.jpg", alt: "Taj Mahal" },
+          { src: "/photos/photo13.jpg", alt: "Colosseum" },
         ]}
       />
     </section>
