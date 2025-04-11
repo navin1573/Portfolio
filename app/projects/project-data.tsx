@@ -9,7 +9,7 @@ export const projects: Project[] = [
   {
     title: "MusicChart",
     year: 2024,
-    description: "This project is a Java application that aggregates music data using the Spotify API.",
+    description: "This project is a Java application that aggregates<br> music data using the Spotify API.",
     url: "https://github.com/navin1573/MusicChart",
   },
   {
