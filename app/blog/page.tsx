@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { formatDate, getBlogPosts } from "app/lib/posts";
-
 export const metadata = {
   title: "Blog",
   description: "Nextfolio Blog",
