@@ -9,13 +9,13 @@ export const projects: Project[] = [
   {
     title: "MusicChart",
     year: 2024,
-    description: "This project is a Java application that aggregates<br> music data using the Spotify API.",
+    description: "This project is a Java application that aggregates music data using the Spotify API.",
     url: "https://github.com/navin1573/MusicChart",
   },
   {
-    title: "Obsidian Theme Plugin",
+    title: "Spotify Album Cover fetcher",
     year: 2025,
-    description: "Designed and developed a custom theme plugin for Obsidian.",
-    url: "https://example.com",
+    description: "This site fetches the album cover of your desired song.",
+    url: "https://spotifycoverdownloader.vercel.app/",
   },
 ];
