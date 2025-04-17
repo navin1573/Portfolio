@@ -50,6 +50,24 @@ export default function Page() {
                   </div>
                   <p className="text-sm text-gray-400 sm:text-right">2025</p>
                </div>
+
+               {/* Duplicated achievement card (blank content) */}
+               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between w-full gap-4">
+                  <div className="flex items-center gap-4">
+                     <Image
+                        src="/c.png"
+                        alt="achievement"
+                        width={48}
+                        height={48}
+                        className="rounded-full border border-gray-700 shrink-0"
+                     />
+                     <div>
+                        <h3 className="font-semibold text-white">Linguaskill English Certificate</h3>
+                        <p className="text-sm text-gray-400">Cambridge University · Grade: B2</p>
+                     </div>
+                  </div>
+                  <p className="text-sm text-gray-400 sm:text-right">2024</p>
+               </div>
             </div>
          </section>
       </section>
