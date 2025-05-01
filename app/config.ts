@@ -12,5 +12,5 @@ export const socialLinks = {
   github: "https://github.com/navin1573",
   instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/in/navinograph1",
-  email: "navinsingh3072@gmail.com",
+  email: "mailto:navinsingh3072@gmail.com",
 };

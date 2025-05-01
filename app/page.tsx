@@ -50,8 +50,6 @@ export default function Page() {
                   </div>
                   <p className="text-sm text-gray-400 sm:text-right">2025</p>
                </div>
-
-               {/* Duplicated achievement card (blank content) */}
                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between w-full gap-4">
                   <div className="flex items-center gap-4">
                      <Image
